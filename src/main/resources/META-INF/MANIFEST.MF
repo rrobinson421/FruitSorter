@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Main-Class: fruitsorter.api.AppDriver
+Class-Path: javafx-graphics-17.0.9.jar javafx-base-17.0.9-win.jar javafx
+ -controls-17.0.9.jar javafx-base-17.0.9.jar javafx-graphics-17.0.9-win.
+ jar gson-2.9.0.jar dotenv-java-3.0.0.jar javafx-controls-17.0.9-win.jar
+
